@@ -3,3 +3,6 @@
 ## this is a smaller test
 
 lorem iasdkjfiajerlkjsdflkasjdfaljk
+
+* this is a list item
+* this is another list
